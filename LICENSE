@@ -2,3 +2,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of zmx .
 :zmx test add
+stupid boss
+zmx new line
